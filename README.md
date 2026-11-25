@@ -1,2 +1,0 @@
-# apk-6b066334
-WebView APK for APP DE TREINO
